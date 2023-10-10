@@ -9,6 +9,7 @@ public class Main {
   // ERROR : Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
   // The field RWOnly.name is not visible
   // The field RWOnly.name is not visible
+  
   rwonlyObj.setName("Mausam");
   System.out.println(rwonlyObj.getName());
 }
